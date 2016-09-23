@@ -1,0 +1,25 @@
+body,div,h1,h2,h3,h4,h5,h6,p,input,form,a{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-default .navbar-nav>li>a{
+    height: 70px;
+    line-height: 35px;
+}
+.carousel{
+    height: 320px;
+}
+.carousel .item{
+    height: 320px;
+}
+.carousel .item img{
+    width: 100%;
+}
+#img-container .col-md-4{
+    margin: 10px 0;
+    border: 1px solid #9d9d9d;
+}
+#img-container .col-md-4 p{
+    text-align: center;
+}
